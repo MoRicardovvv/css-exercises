@@ -1,0 +1,14 @@
+.right-button {
+  background-color: yellow;
+}
+
+.left-button {
+  background-color: black;
+  color: white;
+}
+
+.right-button,
+.left-button {
+  font-size: 40px;
+  display: inline-block;  
+}
